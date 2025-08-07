@@ -1,25 +1,26 @@
-# 📊 Análisis del COVID-19 en Perú y países de Sudamérica
+📊 Análisis del COVID-19 en Perú y Sudamérica
+Este proyecto analiza el comportamiento del COVID-19 en Perú y lo compara con Brasil, Chile y Argentina, utilizando datos públicos y herramientas de análisis de datos en Python.
 
-Este proyecto analiza el comportamiento del COVID-19 en Perú comparándolo con Brasil, Chile y Argentina, utilizando datos públicos y herramientas de análisis de datos en Python.
+🧰 Herramientas utilizadas
+Python 3
 
-## 🧰 Herramientas utilizadas
+Jupyter Notebook
 
-- Python 3
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Our World in Data (fuente de datos)
+Pandas
 
-## 📌 Objetivos
+Matplotlib
 
-- Analizar la evolución de casos y muertes en Perú.
-- Comparar el impacto del COVID-19 entre varios países.
-- Visualizar los datos de forma clara y profesional.
+Our World in Data (fuente de datos)
 
-## 🔗 Fuente de datos
+📌 Objetivos
+Analizar la evolución de casos y muertes en Perú.
 
-[Our World In Data - COVID-19](https://covid.ourworldindata.org/data/owid-covid-data.csv)
+Comparar el impacto del COVID-19 entre países seleccionados.
 
-## 👨‍💻 Autor
+Visualizar los datos de forma clara y profesional.
 
-**Tu nombre aquí**
+🔗 Fuente de datos
+Our World in Data - COVID-19
+
+👨‍💻 Autor
+Einstein Carrera Chavez
