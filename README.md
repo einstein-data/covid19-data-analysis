@@ -22,5 +22,5 @@ Este proyecto analiza el comportamiento del COVID-19 en Perú comparándolo con 
 
 ## 👨‍💻 Autor
 
-**Tu nombre aquí**
+**Einstein Carrera Chavez**
 
